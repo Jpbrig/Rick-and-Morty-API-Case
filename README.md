@@ -28,3 +28,13 @@ id; name; status; species; type; gender
 ## Estratégia
 Foi utilizada paginação da API (page=1,2,3) para obter pelo menos 50 personagens.
 Os dados foram tratados e exportados utilizando delimitador ponto e vírgula (;).
+
+## Teste da API no Postman
+
+Requisição GET realizada para:
+
+https://rickandmortyapi.com/api/character?page=1
+
+Status retornado: 200 OK
+
+![Postman Test](screenshots/postman-test.png)
