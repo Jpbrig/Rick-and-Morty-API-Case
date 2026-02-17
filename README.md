@@ -37,4 +37,4 @@ https://rickandmortyapi.com/api/character?page=1
 
 Status retornado: 200 OK
 
-![Postman Test](screenshots/postman-test.png)
+![Postman Test](screenshots/Postman_2026-02-16.png)
